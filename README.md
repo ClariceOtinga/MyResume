@@ -1,2 +1,3 @@
 # MyResume
-My resume.
+
+A copy of my resume implemented using basic HTML nad CSS.
